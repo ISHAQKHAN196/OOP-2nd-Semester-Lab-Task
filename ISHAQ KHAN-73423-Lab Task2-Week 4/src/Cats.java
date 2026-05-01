@@ -1,4 +1,5 @@
 public class Cats { 
+
  void eat(){ 
  System.out.println("Cat Eats Milk"); 
  } 

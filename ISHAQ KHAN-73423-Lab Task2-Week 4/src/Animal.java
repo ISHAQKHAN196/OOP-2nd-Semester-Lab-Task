@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Animal { 
  public static void main(String[] args){ 
  Cats c1= new Cats(); 
+ System.out.println("ISHAQKHAN");
  Dogs d1= new Dogs(); 
  System.out.println("Cats Features Are Called Here Below:"); 
  c1.eat(); 
